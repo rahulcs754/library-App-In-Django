@@ -25,7 +25,7 @@ SECRET_KEY = '$n@$@oev4m#s+=j9d-el$d&d)!1djt&g_wsqdnkotuebehqrd#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://rahulcs754-library-app-in-django.glitch.me/','*']
 
 
 # Application definition
